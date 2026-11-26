@@ -29,7 +29,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
-          scope: '@betagouv'
+          scope: '@incubateur-ademe'
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
