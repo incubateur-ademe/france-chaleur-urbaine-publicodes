@@ -1,7 +1,7 @@
 {
 	"name": "@incubateur-ademe/france-chaleur-urbaine-publicodes",
 	"description": "",
-	"version": "2.3.0",
+	"version": "2.4.0",
 	"homepage": "https://github.com/incubateur-ademe/france-chaleur-urbaine-publicodes#readme",
 	"engines": {
 		"node": "24",
