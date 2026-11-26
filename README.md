@@ -1,6 +1,6 @@
 # Publicodes x France Chaleur Urbaine
 
-[API docs](https://betagouv.github.io/france-chaleur-urbaine-publicodes/)
+[API docs](https://incubateur-ademe.github.io/france-chaleur-urbaine-publicodes/)
 
 Modèle [Publicodes](https://publi.codes/) du comparateur réalisé en partenariat avec l'association [AMORCE](https://amorce.asso.fr/) dans le cadre de l'[action C3 du programme européen Heat & Cool](https://www.cerema.fr/fr/actualites/quels-leviers-collectivites-locales-developper-reseaux)
 
@@ -30,7 +30,7 @@ Afin de publier une nouvelle version il suffit d'exécuter la commande `npm vers
 pnpm version minor
 ```
 
-Il ne reste alors plus qu'à pousser le commit et le tag pour créer une release sur le [registre NPM](https://www.npmjs.com/package/@betagouv/france-chaleur-urbaine-publicodes).
+Il ne reste alors plus qu'à pousser le commit et le tag pour créer une release sur le [registre NPM](https://www.npmjs.com/package/@incubateur-ademe/france-chaleur-urbaine-publicodes).
 
 ```sh
 git push && git push --tags
@@ -60,4 +60,4 @@ pnpm dev
 
 ## CI
 
-Le workflow exact `publish.yaml` a été approuvé en tant que [trusted publisher sur npmjs.com](https://www.npmjs.com/package/@betagouv/france-chaleur-urbaine-publicodes/access) afin de pouvoir publier automatiquement les tags vX.X.X et pouvoir les réutiliser dans le dépôt [france-chaleur-urbaine](https://github.com/betagouv/france-chaleur-urbaine).
+Le workflow exact `publish.yaml` a été approuvé en tant que [trusted publisher sur npmjs.com](https://www.npmjs.com/package/@incubateur-ademe/france-chaleur-urbaine-publicodes/access) afin de pouvoir publier automatiquement les tags vX.X.X et pouvoir les réutiliser dans le dépôt [france-chaleur-urbaine](https://github.com/incubateur-ademe/france-chaleur-urbaine).

@@ -57,7 +57,7 @@ function Documentation() {
 				engine={engine}
 				renderers={renderers}
 				language={"fr"}
-				npmPackage="@betagouv/france-chaleur-urbaine-publicodes"
+				npmPackage="@incubateur-ademe/france-chaleur-urbaine-publicodes"
 			/>
 		</div>
 	);
